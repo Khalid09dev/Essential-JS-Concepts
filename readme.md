@@ -29,4 +29,4 @@
    - Common DOM methods include `getElementById`, `querySelector`, `addEventListener`, and `createElement`.
 
 # Tags
-#JavaScript #WebDevelopment #Coding #Programming #DevTips #100DaysOfCode
+#JavaScript #WebDevelopment #Coding #Programming #DevTips 
